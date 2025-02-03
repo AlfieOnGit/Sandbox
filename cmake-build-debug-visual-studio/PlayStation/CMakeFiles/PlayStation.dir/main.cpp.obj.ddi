@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PlayStation\\CMakeFiles\\PlayStation.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\c1012538\\CLionProjects\\Sandbox\\cmake-build-debug-visual-studio\\vc140.pdb",
+                "PlayStation\\CMakeFiles\\PlayStation.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
