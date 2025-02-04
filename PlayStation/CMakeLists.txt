@@ -1,4 +1,9 @@
-﻿add_executable(PlayStation main.cpp)
+﻿file(GLOB Headers "${CMAKE_CURRENT_SOURCE_DIR}/*.h")
+file(GLOB Sources "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp")
+
+add_executable(PlayStation
+        ${Headers}
+        ${Sources})
 
 include_directories(../Core)
 

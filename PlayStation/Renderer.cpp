@@ -3,5 +3,5 @@
 #include <iostream>
 
 void Renderer::RenderScene() {
-    std::cout << "Window render logic called!\n";
+    std::cout << "PlayStation render logic called!\n";
 }
