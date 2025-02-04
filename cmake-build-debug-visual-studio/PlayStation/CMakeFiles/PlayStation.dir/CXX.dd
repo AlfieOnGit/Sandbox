@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build PlayStation\CMakeFiles\PlayStation.dir\main.cpp.obj: dyndep
-

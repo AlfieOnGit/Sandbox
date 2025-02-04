@@ -1,7 +1,0 @@
-ninja_dyndep_version = 1.0
-build Core\CMakeFiles\Core.dir\main.cpp.obj: dyndep
-
-build Core\CMakeFiles\Core.dir\Renderer.cpp.obj: dyndep
-
-build Core\CMakeFiles\Core.dir\__\PlayStation\main.cpp.obj: dyndep
-

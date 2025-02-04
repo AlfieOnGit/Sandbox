@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build Windows\CMakeFiles\Windows.dir\main.cpp.obj: dyndep
-
-build Windows\CMakeFiles\Windows.dir\Renderer.cpp.obj: dyndep
-
